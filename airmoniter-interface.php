@@ -6,7 +6,7 @@
     $dbhost = 'localhost';
     $dbuser = 'root';
     $dbpass = '';
-    $dbname = 'project1'; 
+    $dbname = ''; 
   // checking if a user is logged in
 //  if (!isset($_SESSION[''])) {
   //  header('Location:');
