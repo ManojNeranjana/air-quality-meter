@@ -6,7 +6,7 @@
     $dbhost = 'localhost';
     $dbuser = 'root';
     $dbpass = '';
-    $dbname = '  '; 
+    $dbname = 'air-quality-meter'; 
   // checking if a user is logged in
 //  if (!isset($_SESSION[''])) {
   //  header('Location:');
