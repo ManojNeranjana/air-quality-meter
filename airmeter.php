@@ -3,7 +3,7 @@
     $dbhost = 'localhost';
     $dbuser = 'root';
     $dbpass = '';
-    $dbname = 'project1'; 
+    $dbname = ' '; 
 	
         
         $id ='';
